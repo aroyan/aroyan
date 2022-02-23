@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @aroyan
-- 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on making project related to Frontend development
