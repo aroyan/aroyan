@@ -3,4 +3,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroyan&layout=compact)](https://github.com/aroyan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroyan&layout=compact)](https://github.com/aroyan?tab=repositories)
