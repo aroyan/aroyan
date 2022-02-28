@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aroyan
+- 👋 Hi, I’m Aroyan
 - 🌱 I’m currently learning JavaScript
 
 
